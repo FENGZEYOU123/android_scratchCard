@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable
+        name="YFZScratchCardView">
+        <attr name="yfz_frontDrawable" format="reference"></attr>
+        <attr name="yfz_backGroundDrawable" format="reference"></attr>
+        <attr name="yfz_scratchSize" format="integer"></attr>
+
+    </declare-styleable>
+</resources>
